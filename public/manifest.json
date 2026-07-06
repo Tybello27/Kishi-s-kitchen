@@ -1,0 +1,27 @@
+{
+  "name": "Kishi's Kitchen",
+  "short_name": "Kishi Kitchen",
+  "description": "A premium offline meal planner, recipe library, grocery list, and nutrition wellness dashboard for Kishi.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fff8f4",
+  "theme_color": "#f3c1cb",
+  "categories": ["food", "health", "lifestyle", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": []
+}
